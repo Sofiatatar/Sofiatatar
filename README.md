@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sofiatatar
-- 👀 I’m interested in Web Development...
-- 🌱 I’m currently learning Full Stack Developer...
-- 📫 How to reach me: sophieetatar@gmail.com !
+- 👋Hi, I'm @Sofiatatar
+- 👀 I'm interested in Java & Android Development...
+- 📫 How to reach me: sophieetatar@gmail.com!
 
 <!---
 Sofiatatar/Sofiatatar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
